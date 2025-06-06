@@ -1,3 +1,0 @@
-This is a shared file.
-line 1: Original text.
-line 2: Original text.
